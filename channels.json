@@ -1,4 +1,92 @@
 {
-  "categories": [],
-  "channels": []
+ "v": 1,
+ "ver": 1794336298196,
+ "cats": [
+  {
+   "name": "Spor",
+   "icon": "⚽",
+   "lock": false
+  },
+  {
+   "name": "Ulusal",
+   "icon": "📺",
+   "lock": false
+  },
+  {
+   "name": "Genel",
+   "icon": "📁",
+   "lock": false
+  }
+ ],
+ "channels": [
+  {
+   "id": "6rgb0ab",
+   "ad": "beIN Sports 1 HD",
+   "url": "https://saraydorf.de/cors/tinhls_proxy.php?url=https://zeus645423.cfd/b1/index.txt",
+   "alt": "",
+   "cat": "Spor",
+   "hidden": false
+  },
+  {
+   "id": "q5x69or",
+   "ad": "beIN Sports 2 HD",
+   "url": "https://saraydorf.de/cors/tinhls_proxy.php?url=https://zeus645423.cfd/b2/index.txt",
+   "alt": "",
+   "cat": "Spor",
+   "hidden": false
+  },
+  {
+   "id": "a0jz45l",
+   "ad": "beIN Sports 3 HD",
+   "url": "https://saraydorf.de/cors/tinhls_proxy.php?url=https://zeus645423.cfd/b3/index.txt",
+   "alt": "",
+   "cat": "Spor",
+   "hidden": false
+  },
+  {
+   "id": "qcf7uf6",
+   "ad": "beIN Sports 4 HD",
+   "url": "https://saraydorf.de/cors/tinhls_proxy.php?url=https://zeus645423.cfd/b4/index.txt",
+   "alt": "",
+   "cat": "Spor",
+   "hidden": false
+  },
+  {
+   "id": "1r7p0zb",
+   "ad": "beIN Sports 5 HD",
+   "url": "https://saraydorf.de/cors/tinhls_proxy.php?url=https://zeus645423.cfd/b5/index.txt",
+   "alt": "",
+   "cat": "Spor",
+   "hidden": false
+  },
+  {
+   "id": "sa44vky",
+   "ad": "beIN Sports Max 1",
+   "url": "https://saraydorf.de/cors/tinhls_proxy.php?url=https://zeus645423.cfd/b1max/index.txt",
+   "alt": "",
+   "cat": "Spor",
+   "hidden": false
+  },
+  {
+   "id": "0ue601v",
+   "ad": "TRT 1",
+   "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8?hls=1",
+   "alt": "",
+   "cat": "Ulusal",
+   "hidden": false
+  }
+ ],
+ "set": {
+  "name": "EVB IPTV",
+  "ticker": "EVB IPTV'ye Hoş Geldiniz ——— İyi seyirler ——— Her gün güncel kanallar!",
+  "view": "list",
+  "admin": true,
+  "resume": true,
+  "src": {
+   "o": "Evlice86",
+   "r": "Evb-kanal",
+   "b": "main",
+   "p": "channels.json"
+  }
+ }
 }
